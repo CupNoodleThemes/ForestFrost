@@ -2,6 +2,7 @@
 
 
 **I have given up on this theme, I hate it. It was my first ever theme, and it's terrible. Do what you want with it, I don't care. Thank you.**
+**The previews are outdated btw.**
 
 
 Forest Frost is a Forest-based Discord Theme that's more on the roundy side.<br />
@@ -21,6 +22,10 @@ then press Ctrl+R<br />
 # Extra Credits
 [l0c4lh057](https://discord.com/users/226677096091484160/) for the *Role color background in member list CSS Snippet.*
 # Previews
+**The previews are outdated btw.**
+**The previews are outdated btw.**
+**The previews are outdated btw.**
+
 ![myImage](https://i.vgy.me/k2KPcP.png)
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(I forgot to blur my servers in the 2nd preview, oops. Too lazy to re-open Photoshop tho)
 ![myImage](https://i.vgy.me/nD6zKF.png)
